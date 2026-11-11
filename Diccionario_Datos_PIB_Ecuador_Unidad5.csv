@@ -1,0 +1,23 @@
+﻿variable,rol,grupo,unidad,interpretacion_didactica,descripcion,valores_faltantes_historico
+trimestre,Tiempo,Identificador temporal,trimestre calendario,Trimestre al que corresponde cada observación.,Período de referencia,0
+ventas_internas,Predictor candidato (X),Actividad económica,variación porcentual simulada (%),Variación simulada de las ventas realizadas en el mercado interno.,Indicador ficticio supuesto disponible a la fecha de corte,0
+produccion_industrial,Predictor candidato (X),Actividad económica,variación porcentual simulada (%),Variación simulada de la actividad de producción industrial.,Indicador ficticio supuesto disponible a la fecha de corte,0
+actividad_comercial,Predictor candidato (X),Actividad económica,variación porcentual simulada (%),Variación simulada del nivel de actividad comercial.,Indicador ficticio supuesto disponible a la fecha de corte,0
+consumo_electrico,Predictor candidato (X),Actividad económica,variación porcentual simulada (%),Variación simulada del consumo de energía eléctrica.,Indicador ficticio supuesto disponible a la fecha de corte,0
+credito_privado,Predictor candidato (X),Sistema financiero,variación porcentual simulada (%),Variación simulada del crédito otorgado al sector privado.,Indicador ficticio supuesto disponible a la fecha de corte,0
+depositos,Predictor candidato (X),Sistema financiero,variación porcentual simulada (%),Variación simulada de los depósitos del sistema financiero.,Indicador ficticio supuesto disponible a la fecha de corte,2
+tasa_interes,Predictor candidato (X),Sistema financiero,porcentaje simulado,Tasa de interés expresada en porcentaje en la simulación.,Indicador ficticio supuesto disponible a la fecha de corte,0
+liquidez_bancaria,Predictor candidato (X),Sistema financiero,índice simulado (puntos),Índice ficticio de liquidez del sistema bancario.,Indicador ficticio supuesto disponible a la fecha de corte,0
+exportaciones_petroleras,Predictor candidato (X),Sector externo,variación porcentual simulada (%),Variación simulada de las exportaciones petroleras.,Indicador ficticio supuesto disponible a la fecha de corte,0
+exportaciones_no_petroleras,Predictor candidato (X),Sector externo,variación porcentual simulada (%),Variación simulada de las exportaciones no petroleras.,Indicador ficticio supuesto disponible a la fecha de corte,0
+importaciones,Predictor candidato (X),Sector externo,variación porcentual simulada (%),Variación simulada del valor o volumen agregado de importaciones; la definición precisa no se especifica en el generador.,Indicador ficticio supuesto disponible a la fecha de corte,0
+precio_petroleo,Predictor candidato (X),Sector externo,USD por barril ficticios,"Precio simulado del petróleo, en dólares por barril.",Indicador ficticio supuesto disponible a la fecha de corte,0
+recaudacion_iva,Predictor candidato (X),Sector fiscal,variación porcentual simulada (%),Variación simulada de la recaudación por IVA.,Indicador ficticio supuesto disponible a la fecha de corte,0
+confianza_consumidor,Predictor candidato (X),Consumo y hogares,índice simulado (puntos),Índice simulado de confianza del consumidor.,Indicador ficticio supuesto disponible a la fecha de corte,3
+ventas_minoristas,Predictor candidato (X),Consumo y hogares,variación porcentual simulada (%),Variación simulada de ventas minoristas.,Indicador ficticio supuesto disponible a la fecha de corte,0
+empleo,Predictor candidato (X),Mercado laboral,porcentaje simulado,Indicador simulado de empleo expresado en porcentaje; no se especifica una tasa oficial concreta.,Indicador ficticio supuesto disponible a la fecha de corte,0
+inversion_publica,Predictor candidato (X),Inversión y sector público,variación porcentual simulada (%),Variación simulada de la inversión pública.,Indicador ficticio supuesto disponible a la fecha de corte,2
+gasto_gobierno,Predictor candidato (X),Inversión y sector público,variación porcentual simulada (%),Variación simulada del gasto del gobierno.,Indicador ficticio supuesto disponible a la fecha de corte,0
+construccion,Predictor candidato (X),Inversión y sector público,variación porcentual simulada (%),Variación simulada de la actividad de construcción.,Indicador ficticio supuesto disponible a la fecha de corte,0
+importacion_bienes_capital,Predictor candidato (X),Inversión y sector público,variación porcentual simulada (%),Variación simulada de las importaciones de bienes de capital.,Indicador ficticio supuesto disponible a la fecha de corte,0
+crecimiento_pib,Objetivo (Y),Variable objetivo,variación interanual simulada (%),Crecimiento interanual simulado del PIB; variable que se busca predecir.,Objetivo del modelo; Q4 2026 sin valor observado,0
