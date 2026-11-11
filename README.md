@@ -5,6 +5,8 @@ Proyecto académico — Diplomado en BI e Inteligencia Artificial, Módulo 5 (ML
 
 Autor: Victor Oña
 
+**🚀 App en línea:** https://appmlopsreentrenamientopy-aah9dtpk6lpswpjr3vp3vj.streamlit.app/
+
 ## Contenido
 
 | Archivo | Descripción |
