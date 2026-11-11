@@ -808,6 +808,7 @@ with tab4:
 
         # Identificamos las columnas del notebook
         posibles_observados = [
+            "pib_observado",
             "crecimiento_pib",
             "PIB_real",
             "observado",
@@ -815,6 +816,7 @@ with tab4:
         ]
 
         posibles_predichos = [
+            "pib_predicho",
             "prediccion",
             "PIB_estimado",
             "predicho",
